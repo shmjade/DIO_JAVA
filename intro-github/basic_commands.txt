@@ -1,0 +1,1 @@
+basic comands: \n- mkdir: creates directory \n- echo a text > filename.txt : creates file named filename.txt containing text a text
